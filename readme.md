@@ -20,4 +20,12 @@ Parkinson’s disease: patients have been given movement using electrical
 stimulation [Blog post]. Retrieved from
 https://www.scitecheuropa.eu/chronic-parkinsons-disease/94524/
 
+**Parkinson's Disease Classification Data Set - **[http://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification](http://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
+
+Sakar, C.O., Serbes, G., Gunduz,
+A., Tunc, H.C., Nizam, H., Sakar, B.E., Tutuncu, M., Aydin, T., Isenkul, M.E.
+and Apaydin, H., 2018. A comparative analysis of speech signal processing
+algorithms for Parkinsonâ€™s disease classification and the use of the tunable
+Q-factor wavelet transform. Applied Soft Computing, DOI: [[Web Link]](https://doi.org/10.1016/j.asoc.2018.10.022)
+
 

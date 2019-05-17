@@ -1,6 +1,6 @@
 # Parkinson-s-Disease-Classification-from-Speech-Data
 Parkinson’s Disease Classification from Speech Data using multiple 
-Machine Learning approaches
+Machine Learning approaches. This was implemented using scikit-learn Python package.
 
 # Abstract
 In this project, multiple modern machine learning and pattern 

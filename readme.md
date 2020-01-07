@@ -17,7 +17,7 @@ like neural networks.
 ## Requirements
 
 - Jupyter Notebook
-- `opencv-python` library
+- `scikit-learn` library
 
 ## Contribute
 

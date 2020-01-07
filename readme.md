@@ -14,6 +14,21 @@ been assessed with a reliable dataset from UCI repository. An ensemble
 method outperformed other individual models including more complex ones 
 like neural networks.
 
+## Requirements
+
+- Jupyter Notebook
+- `opencv-python` library
+
+## Contribute
+
+- Add an adaptive implementation of maximum entropy thresholding
+
+## Built With
+
+* [Jupyter Notebook](https://jupyter.org/)
+* [`scikit-learn`](https://scikit-learn.org/stable/) - Machine Learning library
+
+
 # References and data
 \[1\]	Scitech Europa. (2019, April 24th). A breakthrough for chronic 
 Parkinson’s disease: patients have been given movement using electrical 
@@ -28,4 +43,15 @@ and Apaydin, H., 2018. A comparative analysis of speech signal processing
 algorithms for Parkinsonâ€™s disease classification and the use of the tunable
 Q-factor wavelet transform. Applied Soft Computing, DOI: [[Web Link]](https://doi.org/10.1016/j.asoc.2018.10.022)
 
+## Authors
+
+* **Imad Eddine Toubal** - *Initial work* - [imadtoubal](https://github.com/imadtoubal)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+ Happy coding!
 

@@ -1,4 +1,6 @@
 # Parkinson-s-Disease-Classification-from-Speech-Data
+[![Open Word-Level In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imadtoubal/Parkinson-s-Disease-Classification-from-Speech-Data/blob/master/All.ipynb)
+
 Parkinson’s Disease Classification from Speech Data using multiple 
 Machine Learning approaches. This was implemented using scikit-learn Python package.
 
